@@ -1,6 +1,6 @@
 # Go Encrypt!
 
-Go Encrypt is a command-line application used to easily encrypt and decrypt files with the AES-256 GCM encryption algorithm. 
+Go Encrypt! is a command-line application used to easily encrypt and decrypt files with the AES-256 GCM encryption algorithm. 
 
 ## Usage
 ```
